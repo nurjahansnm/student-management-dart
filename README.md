@@ -2,7 +2,7 @@
 This is a simple Dart program that allows the user to input student information, store it, calculate grades, and display sorted results.
 
 
-# Features:
+# Features
 - Input student name, ID, and score
 - Ensures unique ID for each student
 - Automatic grade calculation (A+ to F)
